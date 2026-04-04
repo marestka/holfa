@@ -1,4 +1,3 @@
-<img width="1912" height="1060" alt="holfa_05 04 2026" src="https://github.com/user-attachments/assets/211cb734-0189-4ad7-8a6f-2b50a861baef" />
 HOLFA - p2p игра по сети от marest.
 
 Управление :
@@ -43,4 +42,4 @@ ESC чтобы открыть меню паузы
 
 Автор не несёт ответственности за версии, скачанные из сторонних источников.
 
-<img width="1904" height="1033" alt="holfa_первая_версия" src="https://github.com/user-attachments/assets/9b350142-f786-4fb2-97be-0051322505f9" />
+<img width="1912" height="1060" alt="holfa_05 04 2026" src="https://github.com/user-attachments/assets/211cb734-0189-4ad7-8a6f-2b50a861baef" />
